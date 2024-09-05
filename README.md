@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a network engineer<br>I'm currently learning cybersecurity and deep learning
+I'm currently working as a network engineer<br>I'm currently learning cybersecurity
 
 
 ## 🌐 Socials:
