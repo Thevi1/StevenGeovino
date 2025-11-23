@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a network engineer <br> also learning cybersecurity <br> Enjoy seeing my GitHub :),  but there's nothing interesting on my GitHub.
+I'm a network engineer <br> also cybersecurity enthusiast <br> Enjoy seeing my GitHub :),  but there's nothing interesting on my GitHub.
 
 
 ## 🌐 Socials:
